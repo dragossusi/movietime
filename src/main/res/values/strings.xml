@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieTime</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Shimba numele</string>
+    <string name="title_activity_search">Cauta film</string>
+    <string name="title_activity_tv_search">Cauta serial</string>
+</resources>

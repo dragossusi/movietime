@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_seen_movies"
+            android:title="Filme Vazute" />
+        <item
+            android:id="@+id/nav_seen_tv_shows"
+            android:title="Seriale Vazute" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Altceva" />
+        <item
+            android:id="@+id/nav_achievements"
+            android:title="Achievements" />
+    </group>
+
+</menu>
