@@ -1,4 +1,4 @@
-#MovieTime
+# MovieTime
 
 Aplicatie in care poti adauga in istoric ce filme/seriale ai vazut pana acum si cat timp ai petrecut vizionandu-le.
 
